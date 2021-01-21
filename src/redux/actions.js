@@ -1,0 +1,21 @@
+export const ACTIONS = {
+  // loading
+  LOADING: 'LOADING',
+  HIDE_LOADING: 'HIDE_LOADING',
+
+  // left menu question
+  LEFT_MENU_SHOW: 'LEFT_MENU_SHOW',
+
+  // examination
+  UPDATE_ANSWERS: 'UPDATE_ANSWERS',
+
+  // language
+  UPDATE_LANGUAGE: 'UPDATE_LANGUAGE',
+
+  // sign
+  SET_LOGIN_FACEBOOK: 'SET_LOGIN_FACEBOOK',
+  SET_LOGIN_GOOGLE: 'SET_LOGIN_GOOGLE',
+
+  // license
+  SET_LICENSE: 'SET_LICENSE'
+}
